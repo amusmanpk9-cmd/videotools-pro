@@ -1,2 +1,6 @@
 Flask
 gunicorn
+moviepy
+imageio-ffmpeg
+python-docx
+pdf2docx
